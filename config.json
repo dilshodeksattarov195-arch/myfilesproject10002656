@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustervarse",
+        "uuid": 3001280,
+        "checksum": "wtaued"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
